@@ -1,8 +1,9 @@
 ### Hi there 👋
 <img src="https://github-readme-stats.vercel.app/api?username=eric2003&show_icons=true&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api?username=eric2003&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eric2003&layout=compact"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eric2003&layout=compact&theme=dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eric2003&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=eric2003&repo=OneFLOW"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=eric2003&repo=ModernCMake"/>
 <!--
 **eric2003/eric2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
