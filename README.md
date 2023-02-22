@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Eric!
 ## 📚 Featured Articles
 
 - [Scientific Computing](https://scientificcomputing.readthedocs.io/)
 - [reStructuredText Menu](https://restructuredtextmenu.readthedocs.io/)
+
+## 📈 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=eric2003&show_icons=true&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eric2003&layout=compact&theme=dark"/>
