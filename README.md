@@ -5,6 +5,12 @@
 - [reStructuredText Menu](https://restructuredtextmenu.readthedocs.io/)
 - [OneFLOW CFD-LargeScale Multiphysics Scientific Simulation Environment](https://oneflow-cfd.readthedocs.io/)
 
+## 📚 Github pages
+
+-  [OneFLOW-CFD's Website](https://eric2003.github.io/)
+-  [Eric's Scientific Computing Website](https://eric2003.github.io/Prometheus/)
+
+
 ## 📈 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=eric2003&show_icons=true&theme=dark"/>
